@@ -10,4 +10,3 @@
 #cr2.fit2cloud.com/1panel/maxkb
 #kubesphere/ks-installer:v3.4.1
 harness/gitness:latest
-
