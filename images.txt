@@ -11,4 +11,4 @@
 #kubesphere/ks-installer:v3.4.1
 harness/gitness:latest
 redis:latest
-nacos/nacos-server:2.4.3
+nacos/nacos-server:v2.4.3
