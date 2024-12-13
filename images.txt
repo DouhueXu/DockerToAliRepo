@@ -9,7 +9,7 @@
 #ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
 #kubesphere/ks-installer:v3.4.1
-harness/gitness:latest
-redis:latest
-nacos/nacos-server:v2.4.3
+#harness/gitness:latest
+#redis:latest
+#nacos/nacos-server:v2.4.3
 minio/minio:latest
