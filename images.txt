@@ -14,4 +14,5 @@
 #nacos/nacos-server:v2.4.3
 #minio/minio:latest
 #linuxserver/heimdall:latest
-ngrok/ngrok:latest
+#ngrok/ngrok:latest
+nginx:latest
