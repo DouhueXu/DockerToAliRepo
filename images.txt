@@ -15,4 +15,5 @@
 #minio/minio:latest
 #linuxserver/heimdall:latest
 #ngrok/ngrok:latest
-nginx:latest
+#nginx:latest
+mysql:latest
