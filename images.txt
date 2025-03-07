@@ -16,4 +16,5 @@
 #linuxserver/heimdall:latest
 #ngrok/ngrok:latest
 #nginx:latest
-mysql:latest
+#mysql:latest
+eclipse-temurin:17-jre
