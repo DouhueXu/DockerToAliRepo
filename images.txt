@@ -18,4 +18,5 @@
 #nginx:latest
 #mysql:latest
 #eclipse-temurin:17-jre
-eclipse-temurin:17-jdk-alpine-3.21
+#eclipse-temurin:17-jdk-alpine-3.21
+postgres:latest
