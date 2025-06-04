@@ -19,4 +19,5 @@
 #mysql:latest
 #eclipse-temurin:17-jre
 #eclipse-temurin:17-jdk-alpine-3.21
-postgres:latest
+#postgres:latest
+uusec/openresty-manager:latest
