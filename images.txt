@@ -11,7 +11,6 @@
 #kubesphere/ks-installer:v3.4.1
 #harness/gitness:latest
 #redis:latest
-#nacos/nacos-server:v2.4.3
 #minio/minio:latest
 #linuxserver/heimdall:latest
 #ngrok/ngrok:latest
@@ -20,4 +19,5 @@
 #eclipse-temurin:17-jre
 #eclipse-temurin:17-jdk-alpine-3.21
 #postgres:latest
-uusec/openresty-manager:latest
+#uusec/openresty-manager:latest
+nacos/nacos-server:latest
