@@ -20,4 +20,5 @@
 #eclipse-temurin:17-jdk-alpine-3.21
 #postgres:latest
 #uusec/openresty-manager:latest
-nacos/nacos-server:latest
+#nacos/nacos-server:latest
+labring/higress:latest
