@@ -21,4 +21,4 @@
 #postgres:latest
 #uusec/openresty-manager:latest
 #nacos/nacos-server:latest
-labring/higress:v2.0.6
+notability/nginx-geoip2:v11
