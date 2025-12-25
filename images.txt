@@ -21,4 +21,5 @@
 #postgres:latest
 #uusec/openresty-manager:latest
 #nacos/nacos-server:latest
-notability/nginx-geoip2:v11
+#notability/nginx-geoip2:v11
+bytebase/bytebase:latest
